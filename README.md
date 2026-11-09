@@ -5,7 +5,7 @@
 
 A **Restaurant Management System** built using **Core Java** and **MySQL**, designed for administrators and restaurant owners to efficiently manage menu items, orders, inventory, and sales. This also involves taking input from **CSV files** so that bulk insertion may take place in the Database.
 
----
+----
 
 ## 🚀 Features
 
