@@ -7,7 +7,7 @@ A **Restaurant Management System** built using **Core Java** and **MySQL**, desi
 
 ----
 
-## 🚀 Features
+## 🚀 Features 
 
 ### 👨‍💼 Admin Panel 
 - Secure admin login.
