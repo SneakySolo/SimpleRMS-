@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Management System (Java + MySQL)
+# 🍽️ Restaurant Management System (Java + MySQL) 
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?logo=openjdk)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
